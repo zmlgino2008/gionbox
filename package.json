@@ -4,7 +4,7 @@
   "description": "后端服务 for 产品政策发布系统",
   "main": "src/server.js",
   "scripts": {
-    "start": "node server.js",
+    "start": "node src/server.js",
     "dev": "nodemon src/server.js"
   },
   "dependencies": {
